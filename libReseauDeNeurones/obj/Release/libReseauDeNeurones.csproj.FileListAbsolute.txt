@@ -1,0 +1,6 @@
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\bin\Release\libReseauDeNeurones.dll
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\bin\Release\libReseauDeNeurones.pdb
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\obj\Release\libReseauDeNeurones.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\obj\Release\libReseauDeNeurones.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\obj\Release\libReseauDeNeurones.dll
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\libReseauDeNeurones\obj\Release\libReseauDeNeurones.pdb

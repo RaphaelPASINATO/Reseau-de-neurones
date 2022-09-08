@@ -1,0 +1,10 @@
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\bin\Release\ReseauDeNeurones.exe.config
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\bin\Release\ReseauDeNeurones.exe
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\bin\Release\ReseauDeNeurones.pdb
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\bin\Release\libReseauDeNeurones.dll
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\bin\Release\libReseauDeNeurones.pdb
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\obj\Release\ReseauDeNeurones.csprojAssemblyReference.cache
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\obj\Release\ReseauDeNeurones.csproj.CoreCompileInputs.cache
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\obj\Release\ReseauDeNeurones.csproj.CopyComplete
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\obj\Release\ReseauDeNeurones.exe
+C:\Users\raphael\Desktop\repaNeurones\ReseauDeNeurones\ReseauDeNeurones\obj\Release\ReseauDeNeurones.pdb
